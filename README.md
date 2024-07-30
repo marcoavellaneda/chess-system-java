@@ -12,17 +12,21 @@ Conhecimentos aplicados ao projeto:
 * Programação orientada a projetos, lógica e organização: herança, polimorfismo, sobrescrita de métodos, injeção de dependência, associações, encapsulamento, enumeração, downcasting, upcasting, padrão de camadas, tratamento de exceções, listas, matrizes, estruturas sequenciais, repetitivas (`for` e `while`) e condicionais (`if-else` e ternários), diagrama UML, versionamento do código, código limpo, etc;
 
 ## Diagrama UML do projeto
-![alt text](https://github.com/marcoavellaneda/chess-system-java/blob/main/chess-system-design.png?raw=true)
+<img src="https://github.com/marcoavellaneda/chess-system-java/blob/main/chess-system-design.png?raw=true">
 
 
 ## Resultado do Projeto
 
-![alt text](https://github.com/marcoavellaneda/chess-system-java/blob/main/chess-match.png?raw=true)
+<img src="https://github.com/marcoavellaneda/chess-system-java/blob/main/chess-match.png?raw=true" width="400" height="400">              <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/DonCaliban/phpIrZvXO.jpg" width="400" height="400">
 
+  
 Jogo de Xadrez completo e funcional, inclusive com movimentos especiais como (Roque, _En Passant_ e promoção do Peão).
 
 Abaixo está um exemplo do jogo em funcionamento:
-https://github.com/user-attachments/assets/b0e9bb84-427d-40aa-9a1e-faa92c5a5f86
+
+
+https://github.com/user-attachments/assets/d4eb64ee-d80d-430d-a2c3-4a634d23f6b1
+
 
 
 
