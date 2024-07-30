@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Projeto desenvolvido durante o Curso de [Java Completo](https://www.udemy.com/course/java-curso-completo/) da plataforma Udemy ministrado pelo [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Prof. Dr. Nelio Alves](https://br.linkedin.com/in/nelio-alves).
+Projeto desenvolvido durante o Curso de [Java Completo](https://www.udemy.com/course/java-curso-completo/), ministrado pelo <img src="https://i.sstatic.net/gVE0j.png"> [Prof. Dr. Nelio Alves](https://br.linkedin.com/in/nelio-alves).
 
 Conhecimentos aplicados ao projeto:
 
